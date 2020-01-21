@@ -18,10 +18,10 @@ public class Main {
 // Java class config
         ApplicationContext context1 = new AnnotationConfigApplicationContext(AppConfig.class);
         context1.getBean("emailService",EmailService.class);
-        
+        EmailService emailService1 = context.getBean("emailService",EmailService.class);
 
 
-        emailService.sendEmail("test@gmail.com","hello from Mealat Eyob ");
+        emailService1.sendEmail("test@gmail.com","hello from Mealat Eyob ");
     }
 }
 
