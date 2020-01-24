@@ -1,4 +1,4 @@
-package EmailServicePackage.annotation;
+package EmailServicePackage.annotation_javaBean_config;
 
 import org.springframework.stereotype.Component;
 

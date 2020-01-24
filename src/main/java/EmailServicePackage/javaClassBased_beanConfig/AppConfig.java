@@ -1,4 +1,4 @@
-package EmailServicePackage.config;
+package EmailServicePackage.javaClassBased_beanConfig;
 
 import EmailServicePackage.EmailService;
 import org.springframework.context.annotation.Bean;

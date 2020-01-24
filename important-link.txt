@@ -1,0 +1,4 @@
+#spring tutorial
+https://data-flair.training/blogs/spring-annotation/
+# good link for spring lecture and downloadable
+http://websystique.com/spring/spring-beans-auto-wiring-example-using-xml-configuration/
