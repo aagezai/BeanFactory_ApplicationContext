@@ -16,5 +16,13 @@ This project is for practice purpose only
    2. prototype for every creattion of a bean different instance cration.
    3. request scope, session, golobal-sesssion, Application scope.
    note: we need to add to the xml configration at bean config scope="prototype" in class config just assing @Scope"prototype"
+# outowiring using xml configration
+  ** Its basic idea is just have 4 ways of autowiring in xml
+autowire="byName" : Autowiring using property name. If a bean found with same name as the property of other bean, this bean will be wired into other beans property
+autowire="byType" : If a bean found with same type as the type of property of other bean, this bean will be wired into other beans property
+autowire="constructor" : If a bean found with same type as the constructor argument of other bean, this bean will be wired into other bean constructor
+autowire="no" : No Autowiring. Same as explicitly specifying bean using ‘ref’ attribute
+  
 # overall was good practice 
+
 -----------------------------------------XXXXX-------------------------------

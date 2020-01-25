@@ -2,3 +2,5 @@
 https://data-flair.training/blogs/spring-annotation/
 # good link for spring lecture and downloadable
 http://websystique.com/spring/spring-beans-auto-wiring-example-using-xml-configuration/
+#The REST-web Service link
+http://websystique.com/spring-boot/spring-boot-rest-api-example/
