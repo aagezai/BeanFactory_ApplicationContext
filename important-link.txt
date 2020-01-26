@@ -2,5 +2,8 @@
 https://data-flair.training/blogs/spring-annotation/
 # good link for spring lecture and downloadable
 http://websystique.com/spring/spring-beans-auto-wiring-example-using-xml-configuration/
-#The REST-web Service link
+
+# Spring Boot + AngularJS + Spring Data + JPA CRUD App
+  http://websystique.com/spring-boot/spring-boot-angularjs-spring-data-jpa-crud-app-example/
+# Spring Boot Rest API Example
 http://websystique.com/spring-boot/spring-boot-rest-api-example/

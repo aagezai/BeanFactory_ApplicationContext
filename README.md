@@ -22,7 +22,11 @@ autowire="byName" : Autowiring using property name. If a bean found with same na
 autowire="byType" : If a bean found with same type as the type of property of other bean, this bean will be wired into other beans property
 autowire="constructor" : If a bean found with same type as the constructor argument of other bean, this bean will be wired into other bean constructor
 autowire="no" : No Autowiring. Same as explicitly specifying bean using ‘ref’ attribute
-  
+# Spring Boot + AngularJS + Spring Data + JPA CRUD App
+  http://websystique.com/spring-boot/spring-boot-angularjs-spring-data-jpa-crud-app-example/
+# Spring Boot Rest API Example
+http://websystique.com/spring-boot/spring-boot-rest-api-example/
+
 # overall was good practice 
 
 -----------------------------------------XXXXX-------------------------------
